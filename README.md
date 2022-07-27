@@ -17,7 +17,7 @@ Research Assistant Professor <br />
 <a href="https://vt.edu/">Virginia Tech</a> <br />
 <br />
 <a href="??">[Biography]</a> 
-  <a href="??">[Publications]</a> 
+  <a href="https://qyliu19.github.io/Publications/">[Publications]</a> 
   <a href="??">[Services]</a></p>
 </td></tr></table>
 
