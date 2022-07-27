@@ -46,7 +46,7 @@ Research Assistant Professor <br />
 </li>
 <li>[Mar. 2022] Our paper <i>"Scheduling with Age of Information Guarantee"</i> has been accepted by <i>IEEE/ACM Trans. Networking</i>.
 </li><li>[Dec. 2021] Our paper <i>"Minimizing AoI with Throughput Requirements in Multi-Path Network Communication"</i> has been accepted by <i>IEEE/ACM Trans. Networking</i>.
-</li><li>[Dec. 2021] Our paper <i>"Ao2I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection"</i> has been accepted by <i>IEEE INFOCOM 2022</i>. 
+</li><li>[Dec. 2021] Our paper <i>"Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection"</i> has been accepted by <i>IEEE INFOCOM 2022</i>. 
 </li><li>[April 2021] I will serve on the TPC of IEEE INFOCOM 2022.
 </li><li>[Dec. 2020] Our paper <i>"On Scheduling with AoI Violation Tolerance"</i> has been accepted by <i>IEEE INFOCOM 2021</i>. 
 </li><li>[Dec. 2020] Our paper <i>"Aion: A Bandwidth Optimized Scheduler with AoI Guarantee"</i> has been accepted by <i>IEEE INFOCOM 2021</i>. 
