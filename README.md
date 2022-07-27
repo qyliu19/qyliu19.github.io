@@ -12,9 +12,9 @@
 <a href="https://qyliu19.github.io/"><img src="Qingyu.PNG" alt="alt text" width="180px" /></a>&nbsp;</td>
 <td align="left"><p>Qingyu Liu, Ph.D.<br />
 Research Assistant Professor <br />
-<a href="https://www.cnsr.ictas.vt.edu/">Complex Networks & Security Research</a> <br />
-<a href="https://ece.vt.edu/">The Bradley Department of Electrical and Computer Engineering</a> <br />
-<a href="https://vt.edu/">Virginia Tech</a> <br />
+<a href="https://www.cnsr.ictas.vt.edu/" target="_blank">Complex Networks & Security Research</a> <br />
+<a href="https://ece.vt.edu/" target="_blank">The Bradley Department of Electrical and Computer Engineering</a> <br />
+<a href="https://vt.edu/" target="_blank">Virginia Tech</a> <br />
 <br />
 <a href="https://qyliu19.github.io/Bio/">[Biography]</a> 
   <a href="https://qyliu19.github.io/Publications/">[Publications]</a> 
